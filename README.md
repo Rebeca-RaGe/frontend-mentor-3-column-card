@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](./images/preview.jpg)
+![Preview](./images/preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Rebeca-RaGe/frontend-mentor-3-column-card](https://github.com/Rebeca-RaGe/frontend-mentor-3-column-card)
+- Live Site URL: [https://rebeca-rage.github.io/frontend-mentor-3-column-card/](https://rebeca-rage.github.io/frontend-mentor-3-column-card/)
 
 ## My process
 
